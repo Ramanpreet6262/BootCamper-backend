@@ -21,8 +21,10 @@
     "nodemon": "^2.0.1"
   },
   "dependencies": {
+    "colors": "^1.4.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "mongoose": "^5.8.1",
     "morgan": "^1.9.1"
   }
 }
