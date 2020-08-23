@@ -1,6 +1,7 @@
 # BootCamper-backend
 
-> Backend API for BootCamper application, a bootcamp directory website.
+> Backend REST API for BootCamper application, a bootcamp directory website to manage bootcamps, courses, users and authentication. 
+Tech Stack: NodeJS, ExpressJS, MongoDB. 
 
 ## Install Dependencies
 
